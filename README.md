@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👩‍💻 Kátia Cruz
 
-<!--
-**katiacruzdev/katiacruzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+🎯 Foco em Back-End (Java + Spring Boot)  
+📍 Em construção para atuar em bancos e grandes empresas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de Engenharia de Software com foco em desenvolvimento Back-End. 
+Estou construindo minha base em Java, banco de dados e APIs REST, com objetivo de atuar em ambientes corporativos e financeiros.
+
+Tenho interesse em arquitetura de sistemas, boas práticas de código e soluções escaláveis.
+
+---
+
+## 🛠️ Tecnologias em estudo
+
+- Java
+- Programação Orientada a Objetos
+- SQL
+- Banco de Dados (MySQL/PostgreSQL)
+- Spring Boot (em desenvolvimento)
+- Git e GitHub
+
+---
+
+## 📌 Projetos
+
+🔹 Em breve: API de Cadastro de Clientes  
+🔹 Em breve: API de Controle Financeiro  
+
+---
+
+## 📫 Contato
+
+Email: aitakrestuccia@gmail.com
